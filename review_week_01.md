@@ -10,7 +10,8 @@
     - Jupyter
     - Python: 람다, 형변화, map
     - 웹 크롤링: requests + bs4를 활용한 크롤링 및 file i/o
-        - 실습: genie에서 top50위까지 노래 목록을 추출해서 그 노래들의 가사를 .txt 파일로 저장해보기
+    - 실습: 
+        - genie에서 top50위까지 노래 목록을 추출해서 그 노래들의 가사를 .txt 파일로 저장해보기
 - 24.04.03:
     - Linux에서 process의 id를 찾고, 백그라운드에서 실행해보기
     - kernel 개념 소개
@@ -22,6 +23,9 @@
     - Web Crawling: requests 모듈에서 post 메서드를 통해 서버에 header와 payload를 전달해 비가시적으로 데이터를 받아오기
     - Python Pandas, Selenium: 간단한 소개 및 활용
     - BI 개념
+    - 실습: 
+        - krx에서 모든 주식들을 크롤링한 다음 KOSPI에 해당하는 주식들만 분리해내기
+        - 네이버 Finance에서 주식별로 1년간의 등락 정보를 csv파일로 추출해내기
 - 24.04.04
     - IP: Private & Public IP 개념
     - Networks: 브로드캐스팅, 서브넷 마스크, ping, netstat

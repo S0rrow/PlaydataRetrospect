@@ -6,6 +6,6 @@
 
 ## April
 - [Week 1](https://github.com/S0rrow/PlaydataRetrospect/blob/main/review_week_01.md)
-- [Week 2](https://github.com/S0rrow/PlaydataRetrospect/blob/main/)
+- [Week 2](https://github.com/S0rrow/PlaydataRetrospect/blob/main/review_week_02.md)
 - [Week 3](https://github.com/S0rrow/PlaydataRetrospect/blob/main/)
 - [Week 4](https://github.com/S0rrow/PlaydataRetrospect/blob/main/)
